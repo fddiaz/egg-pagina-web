@@ -49,28 +49,23 @@ img.foto{
     align-items: center;
 }
 
-
 li>a {
     padding: 8px 24px;
 }
 
-
 li {
     list-style-type: none;
 }
-
 
 a {
     color: white;
     text-decoration:none;
 }
 
-
 .nav-links {
     display: flex;
     align-items: center;
 }
-
 
 .button-menu-toggle {
     display: none;
@@ -84,6 +79,11 @@ a {
 
 iframe {
     flex-direction: row;
+}
+
+.greeting {
+    text-align: center;
+    font-size: 20px;
 }
 
 footer {
